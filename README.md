@@ -1,2 +1,2 @@
-# tik-tock-
-in rhis game i made a tik tock
+# p5.play-boilerplate
+Boiler plate for p5.play
